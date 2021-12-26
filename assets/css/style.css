@@ -10,3 +10,33 @@ body {
     font-family: sans-serif;
     justify-content: center;
 }
+
+.container {
+    background: #14bdac;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.title span {
+    color: #f2ebd3;
+}
+
+.status-action {
+    display: flex;
+    margin-top: 25px;
+    font-size: 25px;
+    justify-content: space-around;
+    height: 30px;
+}
+
+.status span {
+    color: #f2ebd3;
+}
+
+
