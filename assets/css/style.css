@@ -56,4 +56,30 @@ body {
     margin-top: 50px;
 }
 
+.game-cell {
+    background: #14BDAC;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    height: 100px;
+    width: 140px;
+    padding-bottom: 20px;
+}
+
+.x,
+.o {
+    cursor: default;
+}
+
+.x::after {
+    content: 'x';
+    font-size: 100px;
+}
+
+.o::after {
+    content: 'o';
+    color: #f2EBD3;
+    font-size: 125px;
+}
+
 
