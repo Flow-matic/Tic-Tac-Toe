@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background: #14bdac;
+    background: #14BDAC;
     margin: 50px;
     padding: 50px;
     border-radius: 25px;
@@ -24,7 +24,7 @@ body {
 }
 
 .title span {
-    color: #f2ebd3;
+    color: #f2EBD3;
 }
 
 .status-action {
@@ -36,7 +36,24 @@ body {
 }
 
 .status span {
-    color: #f2ebd3;
+    color: #f2EBD3;
+}
+
+.reset {
+    cursor: pointer;
+}
+
+.reset:hover {
+    color: #f2EBD3;
+}
+
+.game-grid {
+    background: #0DA192;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 50px;
+    margin-top: 50px;
 }
 
 
