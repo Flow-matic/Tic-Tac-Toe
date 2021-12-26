@@ -1,5 +1,7 @@
 // HTML Elements
-
+const statusDiv = document.querySelector('.status');
+const resetDiv = document.querySelector('.reset');
+const cellDiv = document.querySelectorAll('.game-cell');
 
 
 
