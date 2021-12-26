@@ -96,13 +96,17 @@ body {
         height: 150px;
         width: 150px;
     }
-    
 
+    .game-cell {
+        height: 100px;
+        width: 100px;
+    }
 
+    .x::after {
+        font-size: 100px;
+    }
 
-
-
-
-
-
+    .o::after {
+        font-size: 125px;
+    }
 }
