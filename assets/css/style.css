@@ -82,4 +82,27 @@ body {
     font-size: 125px;
 }
 
+.won::after {
+    color: #BD022F;
+}
 
+@media only screen and (max-width: 1024px) {
+    .game-grid {
+        margin-top: 25px;
+        grid-gap: 10px;
+    }
+
+    .game-cell {
+        height: 150px;
+        width: 150px;
+    }
+    
+
+
+
+
+
+
+
+
+}
