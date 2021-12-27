@@ -91,10 +91,20 @@ body {
         margin-top: 25px;
         grid-gap: 10px;
     }
-
     .game-cell {
         height: 150px;
         width: 150px;
+    }
+
+    .x::after {
+        font-size: 150px;
+    }
+    }
+
+@media only screen and (max-width: 540px) {
+    .game-grid {
+        margin: 25px;
+        padding: 25px;
     }
 
     .game-cell {
