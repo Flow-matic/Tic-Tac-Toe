@@ -24,7 +24,7 @@ body {
 }
 
 .title span {
-    color: #f2EBD3;
+    color: #F2EBD3;
 }
 
 .status-action {
@@ -36,7 +36,7 @@ body {
 }
 
 .status span {
-    color: #f2EBD3;
+    color: #F2EBD3;
 }
 
 .reset {
@@ -44,7 +44,7 @@ body {
 }
 
 .reset:hover {
-    color: #f2EBD3;
+    color: #F2EBD3;
 }
 
 .game-grid {
@@ -60,6 +60,7 @@ body {
     background: #14BDAC;
     display: flex;
     justify-content: center;
+    align-items: center;
     cursor: pointer;
     height: 100px;
     width: 140px;
@@ -99,10 +100,14 @@ body {
     .x::after {
         font-size: 150px;
     }
+
+    .o::after {
+        font-size: 175px;
+    }
     }
 
 @media only screen and (max-width: 540px) {
-    .game-grid {
+    .container {
         margin: 25px;
         padding: 25px;
     }
