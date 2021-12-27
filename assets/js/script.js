@@ -88,78 +88,20 @@ if (topLeft && topLeft === topMiddle && topLeft === topRight) {
         
     }
     };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // event handlers
+const handleReset = () => {
+    xIsNext = true;
+    statusDiv.innerHTML = `${xSymbol} is next`;
+    for (const cellDiv of cellDivs) {
+        cellDiv.classList.remove('x');
+        cellDiv.classList.remove('o');
+        cellDiv.classList.remove('won');
+    }
+    gameIsLive = true;
+};
+
+
 
 
 
@@ -189,7 +131,6 @@ if (topLeft && topLeft === topMiddle && topLeft === topRight) {
 
 
 // event listeners
-
 
 
 
