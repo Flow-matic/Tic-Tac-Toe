@@ -76,7 +76,22 @@ if (topLeft && topLeft === topMiddle && topLeft === topRight) {
     cellDivs[2].classList.add('won');
     cellDivs[4].classList.add('won');
     cellDivs[6].classList.add('won');
-}
+}else if (topLeft && topMiddle && topRight && middleLeft && middleMiddle && middleRight && bottomLeft && bottomMiddle && bottomRight) {
+    gameIsLive = false;
+    statusDiv.innerHTML = 'Game is tied!';
+} else {
+    xIsNext = !xIsNext;
+    if (xIsNext) {
+        statusDiv.innerHTML = `${xSymbol} is next`;
+    } else {
+        statusDiv.innerHTML = `<span>${oSymbol} is next</span>`;
+        
+    }
+    };
+
+
+
+
 
 
 
