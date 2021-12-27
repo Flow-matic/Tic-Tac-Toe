@@ -101,36 +101,30 @@ const handleReset = () => {
     gameIsLive = true;
 };
 
+const handlecellClick = (e) => {
+    const classList = e.target.classList;
+
+    if (!gameIsLive || classList[1] === 'x' || classList[1] === 'o') {
+        return;
+    }
+
+    if (xIsNext) {
+        classList.add('x');
+        checkGameStatus();
+    } else {
+        classList.add('o');
+        checkGameStatus();
+    }
+    };
 
 
 
+    // event listeners
+    resetDiv.addEventListener('click', handleReset);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// event listeners
+    for (const cellDiv of cellDivs) {
+        cellDiv.addEventListener('click', handleCellClick)
+    }
 
 
 
