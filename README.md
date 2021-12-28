@@ -28,7 +28,9 @@
  Design 
 --- 
 
-#### Using only [HTML5](https://en.wikipedia.org/wiki/HTML5) [CSS3](https://en.wikipedia.org/wiki/CSS) [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
+##### Using only [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
+
+
 
 
 
