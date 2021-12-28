@@ -12,9 +12,9 @@
 
 [ Tic Tac Toe Game ](https://flow-matic.github.io/Tic-Tac-Toe/)
 
-** User Experience ** 
+** User Experience 
 ---
 
-### By encouraging logical thinking, Tic Tac Toe helps children develop there spatial skills. This skill is important for their problem solving abilities-from everday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
+#### By encouraging logical thinking, Tic Tac Toe helps children develop there spatial skills. This skill is important for their problem solving abilities-from everday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
 
-### Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in the their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
+#### Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in the their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
