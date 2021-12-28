@@ -80,7 +80,7 @@ body {
 .o::after {
     content: 'o';
     color: #f2EBD3;
-    font-size: 125px;
+    font-size: 105px;
 }
 
 .won::after {

@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
-### Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+#### Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
-### Games played on three-in-a-row boards can be traced back to Ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
-### An early variation of Tic-Tac-Toe was played in the Roman Empire, around the first century BC. 
+#### Games played on three-in-a-row boards can be traced back to Ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
+#### An early variation of Tic-Tac-Toe was played in the Roman Empire, around the first century BC. 
 ---
 
 ![responsive design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/responsive%20design.png?raw=true) 
@@ -22,3 +22,7 @@
 **More To Add**
 
  * I would like to add more games and extra pages that help children develop various skills, research shows playing puzzle style games can improve children’s abilities to plan, organize, get along with others, and regulate emotions. in addition, play helps with language, math and social skills, and even helps children cope with stress.
+
+ --- 
+
+ 
