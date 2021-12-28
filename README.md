@@ -5,4 +5,4 @@ Games played on three-in-a-row boards can be traced back to Ancient Egypt, where
 An early variation of tic-tac-toe was played in the Roman Empire, around the first century BC.
 ---
 
-![responsive design](https://github.com/Flow-matic/Crypo-News/blob/main/assets/images/responsive%20design.jpg?raw=true) 
+![responsive design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/responsive%20design.png?raw=true) 
