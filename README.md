@@ -28,8 +28,9 @@
  Design 
 --- 
 
-##### *Using only 
- * [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
+ **Using only** 
+
+ * ##### [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
 
   *  [Design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/Design.png?raw=true)
   
@@ -41,6 +42,42 @@
 
   *  [Different sizes](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/favicon%20design.png?raw=true)
 
+  ---
+
+Features 
+
+  ---
+
+**The Website was tested on**
+
+   * Google Chrome 
+   * Internet Explorer 
+   * Safari Browser
+   * Brave Browser
+   * Responsive on all popular device sizes. 
+
+  ---
+
+**Frameworks, Libraries & Programs Used**
+
+  *  [ Favicon.io](https://favicon.io/)
+      * Favicon.io was used for the web browser icon. 
+
+  *  [ Git](https://git-scm.com/)
+      *  Git wqas used to control Gitpod terminal to commit to Git and Push to GitHub.
+
+  *  [ Github](https://github.com/)
+      * GitHub is used to store the projects code after being pushed from Git.
+
+Testing
+---   
+ The W3C Markup Validator and W3C CSS Validator Services were used to check all the code for each page, JavaScript was tested using  ValidateJavaScript.
+
+  *  [ W3C Markup Validator](https://validator.w3.org/)
+  *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  *  [ ValidateJavaScript](https://validatejavascript.com/)
+
+  
 
 
 
