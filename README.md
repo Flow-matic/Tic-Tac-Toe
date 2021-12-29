@@ -55,7 +55,7 @@ Design
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
 
   *  [Design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/Design.png?raw=true)
-  
+
   *  [Favicon design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/apple-touch-icon.png?raw=true)
 
   *  [Text design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/favicon%202.png?raw=true)
@@ -93,7 +93,7 @@ Features
 
 Testing
 ---   
- The W3C Markup Validator and W3C CSS Validator Services were used to check all the code for each page, JavaScript was tested using  ValidateJavaScript.
+ The W3C Markup Validator and W3C CSS Validator Services were used to check all the code for each page, JavaScript was tested using  ValidateJavaScript and JS fiddle.
 
   *  [ W3C Markup Validator](https://validator.w3.org/)
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -120,12 +120,34 @@ Bugs and Issues found
 
     * Issue was fixed by adjusting the CSS file with different margin, padding and Central positions.
 
+  * JavaScript bug found? some lines of code seem to be longer than recommended by different browsers.
+
+    * Fixed error by reducing the spacing bettween the code lines that were flagged up.
+
 
 Deployment 
 
 ---
 
- * This site was deployed using Github through Gitpod
+ * This Game was deployed using Github through Gitpod, steps taking
+
+   * In the top right corner of GitHub.com, click your profile photo, then click Your profile.
+
+   * On the top of your profile page, in the main navigation, click Projects.
+
+   * Click New Project.
+
+   * Type a name and description for your project board.
+
+   * Under "Visibility", choose to make your project board public or private.
+
+   * Click to add a README.md file to your project
+
+   * Click Create project.
+
+   * After your project is ready for deployment, click open on Gitpod.
+
+
 
 
 *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
@@ -137,7 +159,7 @@ Credits
 
 --- 
 
- Thanks and praises has to go to all of the below as I work through a career change asking for help and guidance along the way is always a good starting point, 
+ Thanks and praises has to go to all of the below as I work through a career change, asking for help and guidance along the way is always a good starting point, 
 
  Much like any other skill, learning how to code requires time and persistence. The difficulty will depend on the programming language itself and what kind of software you'd like to make.
 
