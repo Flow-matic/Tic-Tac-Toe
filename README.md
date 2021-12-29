@@ -67,6 +67,8 @@ Design
 
 **Colours used for the Game**
 
+  * [Color picker](https://imagecolorpicker.com/)
+
    * ![Grid color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/grid%20color%201.png?raw=true)
 
    * ![Heading color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/heading%20color.png?raw=true)
