@@ -114,9 +114,21 @@ Testing
  The W3C Markup Validator and W3C CSS Validator Services were used to check all the code for each page, JavaScript was tested using  ValidateJavaScript and JS fiddle.
 
   *  [ W3C Markup Validator](https://validator.w3.org/)
+
+      * The Markup Validation Service is a validator by the World Wide Web Consortium (W3C) that allows Internet users to check pre-HTML5 HTML and XHTML documents for well-formed markup against a document type definition. Markup validation is an important step towards ensuring the technical quality of web pages.
+
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+      * The W3C CSS Validation Service is a free software created by the W3C to help Web designers and Web developers check Cascading Style Sheets (CSS). It can be used on this free service on the web, or downloaded and used either as a java program, or as a java servlet on a Web server.
+
   *  [ ValidateJavaScript](https://validatejavascript.com/)
+
+      * ValidateJavaScript is an online validating (or linting) tool that will automatically find basic errors and help prevent potentially destructive bugs in JavaScript and JSX (React.js) code. Copy and paste or directly input your code into the editor
+
   *  [JS Fiddle](https://jsfiddle.net/)
+
+     * JSFiddle is an online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'.
+
 
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true) 
 
