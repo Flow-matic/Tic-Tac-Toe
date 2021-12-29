@@ -1,4 +1,4 @@
-#                                                     Tic-Tac-Toe
+# Tic-Tac-Toe
 
   * Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
@@ -98,6 +98,7 @@ Testing
   *  [ W3C Markup Validator](https://validator.w3.org/)
   *  [ W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
   *  [ ValidateJavaScript](https://validatejavascript.com/)
+  *  [JS Fiddle](https://jsfiddle.net/)
 
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true) 
 
@@ -145,6 +146,10 @@ Credits
   * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopedia.
 
   * [Slack](https://slack.com/) for that extra push and always help.
+
+  * [MDN Web Docs](https://developer.mozilla.org/en-US/) best documentation on the web.
+
+
 
 
 
