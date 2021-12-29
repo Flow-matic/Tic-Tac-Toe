@@ -81,7 +81,31 @@ Testing
 
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/css%20testing.png?raw=true)
 
- 
+ ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/javascript%20testing.png?raw=true) 
+
+ ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
+
+ Bugs and Issues found
+
+  * meta tag in the html element was coming up as error becasue of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
+
+    * This bug was fixed adjusted using the right meta viewport element.
+
+ ![test result 2]()
+
+  * Grid game didn’t fit browser screen and when also playing the game, the O and X were not positioned Central  of the grid.
+
+    * Issue was fixed by adjusting the CSS file with different margin, padding and Central positions.
+
+Deployment 
+
+---
+
+**This site was deployed using Github through Gitpod.**
+
+*  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
+
+
 
 
 
