@@ -52,7 +52,7 @@ Design
 
 **Using only** 
 
- * [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
+ * [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next, game is tied message will appear as well.
 
   *  [Design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/Design.png?raw=true)
 
@@ -72,11 +72,29 @@ Features
 
 **The Website was tested on**
 
-   * Google Chrome 
-   * Internet Explorer 
-   * Safari Browser
-   * Brave Browser
-   * Responsive on all popular device sizes. 
+   * [Google Chrome](https://www.google.com/chrome/)
+
+   * [Internet explorer](https://www.microsoft.com/en-nz/download/internet-explorer.aspx)
+
+   * [safari](https://www.apple.com/nz/safari/)
+
+   * [Brave browser](https://brave.com/)
+
+   *  Devices the game was tested on. 
+
+     * Pixel 2 XL 
+
+     * Iphone 6,7,8
+      
+     * Iphone Plus
+
+     * Iphone X 
+
+     * Ipad and Ipad Pro
+
+     * Surface duo
+
+     * Nest hub max
 
   ---
 
