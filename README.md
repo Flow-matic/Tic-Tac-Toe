@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
- * Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+  Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
- * Games played on three-in-a-row boards can be traced back to Ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
-##### An early variation of Tic-Tac-Toe was played in the Roman Empire, around the first century BC. 
+  Games played on three-in-a-row boards can be traced back to Ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
+  An early variation of Tic-Tac-Toe was played in the Roman Empire, around the first century BC. 
 ---
 
 ![responsive design](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/responsive%20design.png?raw=true) 
@@ -12,7 +12,7 @@
 
 [ Tic Tac Toe Game ](https://flow-matic.github.io/Tic-Tac-Toe/)
 
- User Experience (UX)
+User Experience (UX)
 ---
 
  * By encouraging logical thinking, Tic Tac Toe helps children develop there spatial skills. This skill is important for their problem solving abilities-from everday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
@@ -25,7 +25,7 @@
 
  --- 
 
- Design 
+Design 
 --- 
 
  **Using only** 
@@ -85,7 +85,7 @@ Testing
 
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
 
- Bugs and Issues found
+Bugs and Issues found
 
   * meta tag in the html element was coming up as error becasue of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
 
@@ -97,13 +97,32 @@ Testing
 
     * Issue was fixed by adjusting the CSS file with different margin, padding and Central positions.
 
+
 Deployment 
 
 ---
 
 **This site was deployed using Github through Gitpod.**
 
+
 *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
+
+
+Credits 
+
+--- 
+
+  * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games.
+
+  * Best CSS website i've recently discovered is [CSS Tricks](https://css-tricks.com/)
+
+  * My go to website is always [W3Schools](https://www.w3schools.com/)
+  
+  * [Stackoverflow](https://stackoverflow.com/) best answers to your technical question.
+
+  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopedia.
+
+  * [Slack](https://slack.com/) for that extra push and always help.
 
 
 
