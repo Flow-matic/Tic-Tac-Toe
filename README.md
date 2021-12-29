@@ -80,7 +80,7 @@ Features
 
    * [Brave browser](https://brave.com/)
 
-   *  Devices the game was tested on. 
+**Devices the game was tested on** 
 
      * Pixel 2 XL 
 
@@ -147,23 +147,37 @@ Deployment
 
 ---
 
- * This Game was deployed using Github through Gitpod, steps taking
+**This Game was deployed using Github through Gitpod**
+  
+  * steps taking on Github.
 
-   * In the top right corner of GitHub.com, click your profile photo, then click Your profile.
+    * In the top right corner of GitHub.com, click your profile photo, then click Your profile.
 
-   * On the top of your profile page, in the main navigation, click Projects.
+    * On the top of your profile page, in the main navigation, click Projects.
 
-   * Click New Project.
+    * Click New Project.
 
-   * Type a name and description for your project board.
+    * Type a name and description for your project board.
 
-   * Under "Visibility", choose to make your project board public or private.
+    * Under "Visibility", choose to make your project board public or private.
 
-   * Click to add a README.md file to your project
+    * Click to add a README.md file to your project
 
-   * Click Create project.
+    * Click Create project.
 
-   * After your project is ready for deployment, click open on Gitpod.
+    * After your project is ready for deployment, click open on Gitpod.
+
+  * After working through your project code on Gitpod? you will have to save and submit it to Github.
+
+  * Steps taking during your project
+
+    * git add .
+
+    * git commit -m "Add google fonts"
+
+    * git push
+
+  * The above steps should be taking throughout your projects each time your adding new content or changing codes ect.
 
 
 
