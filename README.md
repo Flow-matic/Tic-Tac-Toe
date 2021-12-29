@@ -64,6 +64,11 @@ Design
 
   *  [Different sizes](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/favicon%20design.png?raw=true)
 
+
+**Colours used for the Game**
+
+   * 
+
   ---
 
 Features 
@@ -129,6 +134,8 @@ Testing
 
      * JSFiddle is an online IDE service and online community for testing and showcasing user-created and collaborational HTML, CSS and JavaScript code snippets, known as 'fiddles'.
 
+---
+
 
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true) 
 
@@ -138,20 +145,28 @@ Testing
 
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
 
+
 Bugs and Issues found
+
 
   * meta tag in the html element was coming up as error becasue of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
 
+    
     * This bug was fixed adjusted using the right meta viewport element.
 
+ 
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/meta%20viewport%20.png?raw=true)
 
+  
   * Grid game didn’t fit browser screen and when also playing the game, the O and X were not positioned Central  of the grid.
 
+    
     * Issue was fixed by adjusting the CSS file with different margin, padding and Central positions.
 
+  
   * JavaScript bug found? some lines of code seem to be longer than recommended by different browsers.
 
+    
     * Fixed error by reducing the spacing bettween the code lines that were flagged up.
 
 
@@ -179,9 +194,9 @@ Deployment
 
     * After your project is ready for deployment, click open on Gitpod.
 
-  * After working through your project code on Gitpod? you will have to save and submit it to Github.
+**After working through your project code on Gitpod? you will have to save and submit it to Github**
 
-  * Steps taking during your project
+  **Steps taking during your project**
 
     * git add .
 
@@ -192,9 +207,7 @@ Deployment
   * The above steps should be taking throughout your projects each time your adding new content or changing codes ect.
 
 
-
-
-*  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
+  *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
 
 ---
 
