@@ -67,13 +67,13 @@ Design
 
 **Colours used for the Game**
 
-   * [Grid color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/grid%20color%201.png?raw=true)
+   * ![Grid color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/grid%20color%201.png?raw=true)
 
-   * [Heading color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/heading%20color.png?raw=true)
+   * ![Heading color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/heading%20color.png?raw=true)
 
-   * [Font color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/txt%20color.png?raw=true)
+   * ![Font color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/txt%20color.png?raw=true)
 
-   * [Win color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/win%20color.png?raw=true)
+   * ![Win color](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/win%20color.png?raw=true)
 
   ---
 
@@ -115,7 +115,7 @@ Features
       * Favicon.io was used for the web browser icon. 
 
   *  [ Git](https://git-scm.com/)
-      *  Git wqas used to control Gitpod terminal to commit to Git and Push to GitHub.
+      *  Git was used to control Gitpod terminal to commit to Git and Push to GitHub.
 
   *  [ Github](https://github.com/)
       * GitHub is used to store the projects code after being pushed from Git.
