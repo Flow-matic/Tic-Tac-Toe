@@ -93,19 +93,19 @@ Features
 
 **Devices the game was tested on** 
 
-     * Pixel 2 XL 
+   * Pixel 2 XL 
 
-     * Iphone 6,7,8
+   * Iphone 6,7,8
       
-     * Iphone Plus
+   * Iphone Plus
 
-     * Iphone X 
+   * Iphone X 
 
-     * Ipad and Ipad Pro
+   * Ipad and Ipad Pro
 
-     * Surface duo
+   * Surface duo
 
-     * Nest hub max
+   * Nest hub max
 
   ---
 
