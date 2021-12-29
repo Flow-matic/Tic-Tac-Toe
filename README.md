@@ -19,7 +19,29 @@ User Experience (UX)
 
  * Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in the their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
 
+Strategy 
+
+ * A player can play a perfect game of tic-tac-toe (to win or at least draw) if, each time it is their turn to play, they choose the first available move from the following list, as used in Newell and Simon's 1972 tic-tac-toe program.
+
+ * Win: If the player has two in a row, they can place a third to get three in a row.
+
+ * Block: If the opponent has two in a row, the player must play the third themselves to block the opponent.
+
+ * Fork: Create an opportunity where the player has two ways to win (two non-blocked lines of 2).
+
+ * Blocking an opponent's fork: If there is only one possible fork for the opponent, the player should block it. Otherwise, the player should block all forks in any way that simultaneously allows them to create two in a row. Otherwise, the player should create a two in a row to force the opponent into defending, as long as it doesn't result in them creating a fork. For example, if "X" has two opposite corners and "O" has the center, "O" must not play a corner move in order to win. (Playing a corner move in this scenario creates a fork for "X" to win.)
+
+ * Center: A player marks the center. (If it is the first move of the game, playing a corner move gives the second player more opportunities to make a mistake and may therefore be the better choice; however, it makes no difference between perfect players.)
+
+ * Opposite corner: If the opponent is in the corner, the player plays the opposite corner.
+
+ * Empty corner: The player plays in a corner square.
+
+ * Empty side: The player plays in a middle square on any of the 4 sides.
+
+
 **More To Add**
+
 
  * I would like to add more games and extra pages that help children develop various skills, research shows playing puzzle style games can improve children’s abilities to plan, organize, get along with others, and regulate emotions. in addition, play helps with language, math and social skills, and even helps children cope with stress.
 
@@ -28,7 +50,7 @@ User Experience (UX)
 Design 
 --- 
 
- **Using only** 
+**Using only** 
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)  [CSS3](https://en.wikipedia.org/wiki/CSS)  [JavaScript](https://en.wikipedia.org/wiki/JavaScript) the online game will consist of a green grid game with nine square boxes, for each player to add there O or X in, a reset button will be added to restart each game after a player has won and also there will be information to let each player know who’s turn it is next.
 
@@ -102,7 +124,7 @@ Deployment
 
 ---
 
-**This site was deployed using Github through Gitpod.**
+**This site was deployed using Github through Gitpod**
 
 
 *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
