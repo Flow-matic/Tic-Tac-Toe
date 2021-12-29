@@ -125,7 +125,7 @@ Deployment
 
 ---
 
-**This site was deployed using Github through Gitpod**
+ * This site was deployed using Github through Gitpod
 
 
 *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
@@ -134,6 +134,12 @@ Deployment
 Credits 
 
 --- 
+
+ * Thanks and praises has to go to all of the below as I work through a career change asking for help and guidance along the way is always a good starting point, 
+
+ Much like any other skill, learning how to code requires time and persistence. The difficulty will depend on the programming language itself and what kind of software you'd like to make.
+
+
 
   * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games.
 
