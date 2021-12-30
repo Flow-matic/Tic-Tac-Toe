@@ -176,7 +176,7 @@ Bugs and Issues found
 
     
     * Fixed error by reducing the spacing between the code lines that were flagged up.
-
+--- 
 
 Deployment 
 
@@ -206,13 +206,13 @@ Deployment
 
   **Steps taking during your project**
 
-    * git add .
+  * git add .
 
-    * git commit -m "Add google fonts"
+  * git commit -m "Add google fonts"
 
-    * git push
+  * git push
 
-  * The above steps should be taking throughout your projects each time your adding new content or changing codes ect.
+   * The above steps should be taking throughout your projects each time your adding new content or changing codes ect.
 
 
   *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
@@ -224,7 +224,7 @@ Credits
 
 --- 
 
- Thanks and praises has to go to all of the below as I work through a career change, asking for help and guidance along the way is always a good starting point, 
+ Thanks and praises has to go to all of the below as I work through a career change, asking for help and guidance along the way is always a good starting point. 
 
  Much like any other skill, learning how to code requires time and persistence. The difficulty will depend on the programming language itself and what kind of software you'd like to make.
 
@@ -238,7 +238,7 @@ Credits
   
   * [Stackoverflow](https://stackoverflow.com/) best answers to your technical question.
 
-  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopaedia.
+  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopedia.
 
   * [Slack](https://slack.com/) for that extra push and always help.
 
