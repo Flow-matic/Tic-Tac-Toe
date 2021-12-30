@@ -15,7 +15,7 @@
 User Experience (UX)
 ---
 
- * By encouraging logical thinking, Tic Tac Toe helps children develop there spatial skills. This skill is important for their problem solving abilities-from everday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
+ * By encouraging logical thinking, Tic Tac Toe helps children develop their spatial skills. This skill is important for their problem solving abilities-from everyday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
 
  * Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in the their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
 
@@ -29,9 +29,9 @@ Strategy
 
  * Fork:  Create an opportunity where the player has two ways to win (two non-blocked lines of 2).
 
- * Blocking an opponent's fork:  If there is only one possible fork for the opponent, the player should block it. Otherwise, the player should block all forks in any way that simultaneously allows them to create two in a row. Otherwise, the player should create a two in a row to force the opponent into defending, as long as it doesn't result in them creating a fork. For example, if "X" has two opposite corners and "O" has the center, "O" must not play a corner move in order to win. (Playing a corner move in this scenario creates a fork for "X" to win.)
+ * Blocking an opponent's fork:  If there is only one possible fork for the opponent, the player should block it. Otherwise, the player should block all forks in any way that simultaneously allows them to create two in a row. Otherwise, the player should create a two in a row to force the opponent into defending, as long as it doesn't result in them creating a fork. For example, if "X" has two opposite corners and "O" has the centre, "O" must not play a corner move in order to win. (Playing a corner move in this scenario creates a fork for "X" to win.)
 
- * Center:  A player marks the center. (If it is the first move of the game, playing a corner move gives the second player more opportunities to make a mistake and may therefore be the better choice; however, it makes no difference between perfect players.)
+ * Centre:  A player marks the centre. (If it is the first move of the game, playing a corner move gives the second player more opportunities to make a mistake and may therefore be the better choice; however, it makes no difference between perfect players.)
 
  * Opposite corner:  If the opponent is in the corner, the player plays the opposite corner.
 
@@ -157,7 +157,7 @@ Testing
 Bugs and Issues found
 
 
-  * meta tag in the html element was coming up as error becasue of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
+  * meta tag in the html element was coming up as error because of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
 
     
     * This bug was fixed adjusted using the right meta viewport element.
@@ -175,7 +175,7 @@ Bugs and Issues found
   * JavaScript bug found? some lines of code seem to be longer than recommended by different browsers.
 
     
-    * Fixed error by reducing the spacing bettween the code lines that were flagged up.
+    * Fixed error by reducing the spacing between the code lines that were flagged up.
 
 
 Deployment 
@@ -238,7 +238,7 @@ Credits
   
   * [Stackoverflow](https://stackoverflow.com/) best answers to your technical question.
 
-  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopedia.
+  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopaedia.
 
   * [Slack](https://slack.com/) for that extra push and always help.
 
