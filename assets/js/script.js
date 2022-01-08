@@ -1,3 +1,5 @@
+// jshint esversion: 6
+
 // HTML Elements
 const statusDiv = document.querySelector('.status');
 const resetDiv = document.querySelector('.reset');
@@ -123,7 +125,7 @@ const handleCellClick = (e) => {
 resetDiv.addEventListener('click', handleReset);
 
 for (const cellDiv of cellDivs) {
-  cellDiv.addEventListener('click', handleCellClick)
+  cellDiv.addEventListener('click', handleCellClick);
 }
 
 

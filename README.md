@@ -230,7 +230,7 @@ Credits
 
 
 
-  * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games.
+  * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games, and walkthrough guides during my project.
 
   * Best CSS website i've recently discovered is [CSS Tricks](https://css-tricks.com/)
 
