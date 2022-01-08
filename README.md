@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-  * Tic Tac Toe Game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+  * Tic Tac Toe game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
   * Games played on three-in-a-row boards can be traced back to Ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BC.
   An early variation of Tic-Tac-Toe was played in the Roman Empire, around the first century BC. 
@@ -17,7 +17,7 @@ User Experience (UX)
 
  * By encouraging logical thinking, Tic Tac Toe helps children develop their spatial skills. This skill is important for their problem solving abilities-from everyday simple chores to complex mathematical equations besides from a simple game of Tic Tac Toe, children can also develop their spatial abilities by playing around commercial playground equipment.
 
- * Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in the their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
+ * Another good intellectual quality of Tic Tac Toe is that it’s a game with rules. According to Fromberg & Bergen in their book "Play from birth to twelve" (2012), children playing games with rules can help in their intellectual, sociomoral, and personality development. This helps develop an advanced interpersonal understanding which result to better negotiation of conflicts with other children. They recommend that these educational games with rules be a vital part of children’s early education.
 
 Strategy 
 
@@ -65,7 +65,7 @@ Design
   *  [Different sizes](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/favicon%20design.png?raw=true)
 
 
-**Colours used for the Game**
+**Colours used for the game**
 
   * [Color picker](https://imagecolorpicker.com/)
 
@@ -158,7 +158,7 @@ Testing
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
 
 
-Bugs and Issues found
+Bugs and issues found
 
 
   * meta tag in the html element was coming up as error because of the zooming options on the Browsers, because of users with low vision who rely on zoom options available.
@@ -176,13 +176,13 @@ Bugs and Issues found
     * Issue was fixed by adjusting the CSS file with different margin, padding and Central positions.
 
   
-  * JavaScript bug found? some lines of code seem to be longer than recommended by different browsers.
+  * JavaScript bug found some lines of code and they were seem to be longer than recommended by different browsers.
 
     
     * Fixed error by reducing the spacing between the code lines that were flagged up.
 
   
-  * JSHint had 36 warnings, By default, JSHint gives you warnings if you use new ES6 features that might not run on systems that don't support them. as of the image below shows.
+  * JSHint had 36 warnings, by default, JSHint gives you warnings if you use new ES6 features that might not run on systems that don't support them. as of the image below shows.
 
     * Bug was fixed by adding the following code to the top of the JS file. You can add a comment line like this at the top of your file: ((// jshint esversion: 6)).
 
@@ -204,7 +204,7 @@ Deployment
   
   * steps taking on Github.
 
-    * In the top right corner of GitHub.com, click your profile photo, then click Your profile.
+    * In the top right corner of GitHub.com, click your profile photo, then click your profile.
 
     * On the top of your profile page, in the main navigation, click Projects.
 
@@ -216,11 +216,11 @@ Deployment
 
     * Click to add a README.md file to your project
 
-    * Click Create project.
+    * Click create project.
 
     * After your project is ready for deployment, click open on Gitpod.
 
-**After working through your project code on Gitpod? you will have to save and submit it to Github**
+**After working through your project code on Gitpod, you will have to save and submit it to Github**
 
   **Steps taking during your project**
 
@@ -233,7 +233,7 @@ Deployment
    * The above steps should be taking throughout your projects each time your adding new content or changing codes ect.
 
 
-  *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, I like to test and write my code on VS before starting my projects.
+  *  Code was written on Visual Studio code before uploading the files and folders to Gitpod and Github, as I like to test and write my code on VS before starting my projects.
 
 ---
 
