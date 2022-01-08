@@ -136,7 +136,7 @@ Testing
 
    *  [JS Hint](https://jshint.com/)
 
-     * JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project. 
+      * JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project. 
 
   *  [ ValidateJavaScript](https://validatejavascript.com/)
 
@@ -186,6 +186,7 @@ Bugs and Issues found
 
     * Bug was fixed by adding the following code to the top of the JS file. You can add a comment line like this at the top of your file: ((// jshint esversion: 6)).
 
+  
   ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/js%20hint.png?raw=true)
 
 
