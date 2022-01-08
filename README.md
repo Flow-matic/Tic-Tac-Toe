@@ -134,6 +134,10 @@ Testing
 
       * The W3C CSS Validation Service is a free software created by the W3C to help Web designers and Web developers check Cascading Style Sheets (CSS). It can be used on this free service on the web, or downloaded and used either as a java program, or as a java servlet on a Web server.
 
+   *  [JS Hint](https://jshint.com/)
+
+     * JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project. 
+
   *  [ ValidateJavaScript](https://validatejavascript.com/)
 
       * ValidateJavaScript is an online validating (or linting) tool that will automatically find basic errors and help prevent potentially destructive bugs in JavaScript and JSX (React.js) code. Copy and paste or directly input your code into the editor
@@ -176,6 +180,15 @@ Bugs and Issues found
 
     
     * Fixed error by reducing the spacing between the code lines that were flagged up.
+
+  
+  * JSHint had 36 warnings, By default, JSHint gives you warnings if you use new ES6 features that might not run on systems that don't support them. as of the image below shows.
+
+    * Bug was fixed by adding the following code to the top of the JS file. You can add a comment line like this at the top of your file: ((// jshint esversion: 6)).
+
+  
+
+
 --- 
 
 Deployment 
