@@ -148,13 +148,13 @@ Testing
 
 ---
 
-
+&ensp;
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true) 
-
+&ensp;
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/css%20testing.png?raw=true)
-
+&ensp;
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/javascript%20testing.png?raw=true) 
-
+&ensp;
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
 
 
@@ -190,8 +190,8 @@ Bugs and Issues found
 
     * Treehouse Community is a meeting place for developers, designers, and programmers of all backgrounds and skill levels to get support. Collaborate here on code errors or bugs that you need feedback on.
 
-  
-  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/js%20hint.png?raw=true)
+&ensp;
+![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/js%20hint.png?raw=true)
 
 
 --- 
