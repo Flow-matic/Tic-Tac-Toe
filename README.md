@@ -186,6 +186,10 @@ Bugs and Issues found
 
     * Bug was fixed by adding the following code to the top of the JS file. You can add a comment line like this at the top of your file: ((// jshint esversion: 6)).
 
+  * [The Treehouse](https://teamtreehouse.com/community/why-does-jshint-give-me-these-warnings-about-es6) Big thank you to these guys for helping out with the bug fixes.
+
+    * Treehouse Community is a meeting place for developers, designers, and programmers of all backgrounds and skill levels to get support. Collaborate here on code errors or bugs that you need feedback on.
+
   
   ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/js%20hint.png?raw=true)
 
