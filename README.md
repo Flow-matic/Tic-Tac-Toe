@@ -114,13 +114,13 @@ Features
 **Frameworks, Libraries & Programs Used**
 
   *  [ Favicon.io](https://favicon.io/)
-      * Favicon.io was used for the web browser icon. 
+      * Favicon.io was used for the web browser icon. A favicon is a small icon or collection of icons associated with a website, web page, or web application. It’s displayed within the browser tabs and bookmarks bar. 
 
-  *  [ Git](https://git-scm.com/)
-      *  Git was used to control Gitpod terminal to commit to Git and Push to GitHub.
+  *  [ Gitpod](https://www.gitpod.io/)
+      *  Gitpod is an open-source Kubernetes application for ready-to-code developer environments that spins up fresh, automated dev environments for each task, in the cloud, in seconds. It enables you to describe your dev environment as code and start instant, remote and cloud-based developer environments directly from your browser or your Desktop IDE.
 
   *  [ Github](https://github.com/)
-      * GitHub is used to store the projects code after being pushed from Git.
+      * GitHub is used to store the projects code after being pushed from Gitpod. GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
 Testing
 ---   
