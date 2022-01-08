@@ -148,15 +148,15 @@ Testing
 
 ---
 
-&ensp;
- ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true) 
-&ensp;
+
+ ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/html%20testing.png?raw=true)
+
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/css%20testing.png?raw=true)
-&ensp;
+
  ![test result 1](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/javascript%20testing.png?raw=true) 
-&ensp;
+
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/errors.png?raw=true)
-&ensp;
+
 
 Bugs and Issues found
 
@@ -166,9 +166,9 @@ Bugs and Issues found
     
     * This bug was fixed adjusted using the right meta viewport element.
 
- &ensp;
+ 
  ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/meta%20viewport%20.png?raw=true)
-&ensp;
+
   
   * Grid game didn’t fit browser screen and when also playing the game, the O and X were not positioned Central  of the grid.
 
@@ -190,9 +190,9 @@ Bugs and Issues found
 
     * Treehouse Community is a meeting place for developers, designers, and programmers of all backgrounds and skill levels to get support. Collaborate here on code errors or bugs that you need feedback on.
 
-&ensp;
+
 ![test result 2](https://github.com/Flow-matic/Tic-Tac-Toe/blob/main/assets/images/js%20hint.png?raw=true)
-&ensp;
+
 
 --- 
 
